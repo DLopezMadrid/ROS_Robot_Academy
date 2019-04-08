@@ -1,5 +1,5 @@
 # ROS_Robot_Academy
-[](img/ria_logo.png)
+![](img/ria_logo.png)
 
 
 Exercises from robotigniteacademy.com ROS basics in 5 days course (python)
